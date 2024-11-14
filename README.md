@@ -1,6 +1,7 @@
 Steps to reproduce:
 
 ```
+npm install
 tsx load.ts  test.nt test_db
 tsx query.ts test_db
 ```

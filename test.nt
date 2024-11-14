@@ -1,0 +1,100 @@
+_:genid100000 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100001 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "live in the house where one works; &quot;our babysitter lives in, as it is too far to commute for her&quot;"@en .
+_:genid100002 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "diseased"@en .
+_:genid100003 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "morbid"@en .
+_:genid100004 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "pathologic"@en .
+_:genid100005 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "pathological"@en .
+_:genid100006 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "caused by or altered by or manifesting disease or pathology; &quot;diseased tonsils&quot;; &quot;a morbid growth&quot;; &quot;pathologic tissue&quot;; &quot;pathological bodily processes&quot;"@en .
+_:genid100007 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "live out"@en .
+_:genid100008 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100009 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid10000 <http://www.w3.org/2000/01/rdf-schema#label> "Sam cannot %s Sue "@en .
+_:genid100010 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "sleep out"@en .
+_:genid100011 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "work in a house where one does not live; &quot;our cook lives out; he can easily commute from his home&quot;"@en .
+_:genid100013 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "rebellion"@en .
+_:genid100014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "refusal to accept some authority or code or convention; &quot;each generation must have its own rebellion&quot;; &quot;his body was in rebellion against fatigue&quot;"@en .
+_:genid100015 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "forage"@en .
+_:genid100016 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s to the playground"@en .
+_:genid100017 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s the ball"@en .
+_:genid100018 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100019 <http://www.w3.org/2000/01/rdf-schema#label> "The men %s the horses across the field"@en .
+_:genid10001 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "wander and feed; &quot;The animals forage in the woods&quot;"@en .
+_:genid100021 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "punch-up"@en .
+_:genid100022 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a fistfight; &quot;the quarrel ended in a punch-up&quot;"@en .
+_:genid100023 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "dropsical"@en .
+_:genid100024 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "edematous"@en .
+_:genid100025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "swollen with an excessive accumulation of fluid"@en .
+_:genid100026 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "raven"@en .
+_:genid100027 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the car down the avenue"@en .
+_:genid100028 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid100029 <http://www.w3.org/2000/01/rdf-schema#label> "The men %s the horses across the field"@en .
+_:genid10002 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the bags on the table"@en .
+_:genid100030 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100031 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s the ball"@en .
+_:genid100032 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s to the playground"@en .
+_:genid100033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "feed greedily; &quot;The lions ravened the bodies&quot;"@en .
+_:genid100034 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "demonstration"@en .
+_:genid100035 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "manifestation"@en .
+_:genid100036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a public display of group feelings (usually of a political nature); &quot;there were violent demonstrations against the war&quot;"@en .
+_:genid100037 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "enlarged"@en .
+_:genid100038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "larger than normal; &quot;enlarged joints&quot;"@en .
+_:genid100039 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "scavenge"@en .
+_:genid10003 <http://www.w3.org/2000/01/rdf-schema#label> "The cars %s down the avenue"@en .
+_:genid100040 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid100041 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the car down the avenue"@en .
+_:genid100042 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "feed on carrion or refuse; &quot;hyenas scavenge&quot;"@en .
+_:genid100044 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "foaming"@en .
+_:genid100045 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "foamy"@en .
+_:genid100046 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "frothing"@en .
+_:genid100047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "producing or covered with lathery sweat or saliva from exhaustion or disease; &quot;the rabid animal's frothing mouth&quot;"@en .
+_:genid100048 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "fodder"@en .
+_:genid100049 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid10004 <http://www.w3.org/2000/01/rdf-schema#label> "They %s up the hill"@en .
+_:genid100050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "give fodder (to domesticated animals)"@en .
+_:genid100051 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "counterdemonstration"@en .
+_:genid100052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a demonstration held in opposition to another demonstration; &quot;supporters of the president organized a counterdemonstration in his support&quot;"@en .
+_:genid100053 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "gangrenous"@en .
+_:genid100054 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "mortified"@en .
+_:genid100055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "suffering from tissue death"@en .
+_:genid100056 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "slop"@en .
+_:genid100057 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid100058 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the bags on the table"@en .
+_:genid100059 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid10005 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s the ball"@en .
+_:genid100060 <http://www.w3.org/2000/01/rdf-schema#label> "The men %s the horses across the field"@en .
+_:genid100061 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "swill"@en .
+_:genid100062 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid100063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "feed pigs"@en .
+_:genid100064 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "regurgitate"@en .
+_:genid100065 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid100066 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s the ball"@en .
+_:genid100067 <http://www.w3.org/2000/01/rdf-schema#label> "The banks %s the check"@en .
+_:genid100068 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the car down the avenue"@en .
+_:genid100069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "feed through the beak by regurgitating previously swallowed food; &quot;many birds feed their young by regurgitating what they have swallowed and carried to the nest&quot;"@en .
+_:genid10006 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the coin "@en .
+_:genid100070 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "inflamed"@en .
+_:genid100071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "resulting from inflammation; hot and swollen and reddened; &quot;eyes inflamed with crying&quot;"@en .
+_:genid100072 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "walkout"@en .
+_:genid100073 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the act of walking out (of a meeting or organization) as a sign of protest; &quot;there was a walkout by the Black members as the chairman rose to speak&quot;"@en .
+_:genid100074 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "inflammatory"@en .
+_:genid100075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "characterized or caused by inflammation; &quot;an inflammatory process&quot;; &quot;an inflammatory response&quot;"@en .
+_:genid100076 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "feed"@en .
+_:genid100077 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the car down the avenue"@en .
+_:genid100078 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid100079 <http://www.w3.org/2000/01/rdf-schema#label> "Sam cannot %s Sue "@en .
+_:genid10007 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s to the playground"@en .
+_:genid100080 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the bags on the table"@en .
+_:genid100081 <http://www.w3.org/2000/01/rdf-schema#label> "The cars %s down the avenue"@en .
+_:genid100082 <http://www.w3.org/2000/01/rdf-schema#label> "Sam and Sue %s"@en .
+_:genid100083 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s the ball"@en .
+_:genid100084 <http://www.w3.org/2000/01/rdf-schema#label> "These men %s across the river"@en .
+_:genid100085 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the coin "@en .
+_:genid100086 <http://www.w3.org/2000/01/rdf-schema#label> "The children %s to the playground"@en .
+_:genid100087 <http://www.w3.org/ns/lemon/ontolex#writtenRep> "give"@en .
+_:genid100088 <http://www.w3.org/2000/01/rdf-schema#label> "They %s the car down the avenue"@en .
+_:genid100089 <http://www.w3.org/2000/01/rdf-schema#label> "The coins %s "@en .
+_:genid10008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "diminish or discontinue abruptly; &quot;The patient's fever broke last night&quot;"@en .
+_:genid100090 <http://www.w3.org/2000/01/rdf-schema#label> "Sam cannot %s Sue "@en .
